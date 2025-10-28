@@ -46,7 +46,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "mailto:akbaridria15@gmail.com",
+        url: "https://x.com/a_idria",
         icon: Icons.x,
 
         navbar: true,
