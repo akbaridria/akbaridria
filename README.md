@@ -18,7 +18,7 @@
 
 ### 👋 Hi, I'm Akbar!
 
-I'm passionate about building scalable, maintainable, and observable web applications. I love solving complex interface challenges, improving developer experience, and bringing ideas to life through clean architecture and modern tooling.
+Results-driven Software Engineer with a strong passion for developing scalable, maintainable, and user-friendly web applications. Proven ability to tackle complex interface challenges and enhance developer experience through innovative solutions. Skilled in implementing clean architecture and utilizing modern development tools to transform ideas into impactful digital products.
 
 
 
