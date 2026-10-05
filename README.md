@@ -8,7 +8,7 @@
   Jakarta, Indonesia
 </p>
 <p align="center">
-  <a href="https://akbaridria.cloud">🌐 Portfolio</a> •
+  <a href="https://akbaridria.com">🌐 Portfolio</a> •
   <a href="mailto:akbaridria15@gmail.com">✉️ Email</a> •
   <a href="https://github.com/akbaridria">🐙 GitHub</a> •
   <a href="https://www.linkedin.com/in/akbaridria/">💼 LinkedIn</a>
